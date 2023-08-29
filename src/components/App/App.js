@@ -4,8 +4,7 @@ import Header from '../Header';
 function App() {
   return (
     <div className="wrapper">
-      <Header />
-
+      <Header />      
       <div className="game-wrapper">
         <Game />
       </div>

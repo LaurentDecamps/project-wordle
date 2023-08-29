@@ -2,7 +2,7 @@
   "name": "word-game",
   "version": "0.1.0",
   "private": true,
-  "author": "Josh Comeau <me@joshwcomeau.com>",
+  "author": "Josh Comeau <me@joshwcomeau.com>, Laurent Decamps<decamps.laurent@gmail.com>",
   "dependencies": {
     "new-component": "^5",
     "parcel": "2.9.3",
