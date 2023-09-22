@@ -1,4 +1,8 @@
-# Word Game
+# Word Game - My French Version
+
+## Introduction
+
+J'ai voulu asseoir mes compétences React en suivant la formation [Joy of React](https://www.joyofreact.com/) et avoir une vue de mes compétences en dehors d'un projet. Voici ma version de la résolution de l'exercice, je l'ai mise en français pour plus facilement y jouer et le faire jouer autour de moi.
 
 ## Joy of React, Project I
 
